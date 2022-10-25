@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @retarded-person
 - 👀 I’m interested in Reverse Engineering, Malware Analysis, Game Hack Development, Full Stack Development
 - 🌱 I’m currently learning Game Hack Development and Full Stack Development
-- 💞️ I’m looking to collaborate on nothing at the moment
+- 💞️ I’m looking to collaborate on nothing at the moment ( filled with private projects )
 - 📫 How to reach me: @Blastbrean#5236
 
 <!---
