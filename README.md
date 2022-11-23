@@ -31,5 +31,5 @@ I'm a developer who likes to learn a wide arrange of skills. I hope to one day m
   </td>
   <td width="50%">
     
-&nbsp; <br> [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=retarded_person&show_icons=true&theme=dracula)]()
+&nbsp; <br> [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=retarded-person&show_icons=true&theme=dracula)]()
 <br />
