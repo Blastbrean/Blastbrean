@@ -26,10 +26,10 @@ I'm a developer who likes to learn a wide arrange of skills. I hope to one day m
   <tr>
   <td width="50%">
     
-&nbsp; <br> [![Discord Presence](https://lanyard.cnrad.dev/api/468812867194322945)](https://discord.com/users/468812867194322945)
+&nbsp; <br> [![Discord Presence](https://lanyard.cnrad.dev/api/325849904570302469)](https://discord.com/users/325849904570302469)
     
   </td>
   <td width="50%">
     
-&nbsp; <br> [![Code Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=bork0038&show_icons=true&bg_color=1A1C1F&hide_border=true&text_color=fff&title_color=fff&langs_count=5&line_height=34)]()
+&nbsp; <br> [![Code Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=retarded_person&show_icons=true&bg_color=1A1C1F&hide_border=true&text_color=fff&title_color=fff&langs_count=5&line_height=34)]()
 <br />
