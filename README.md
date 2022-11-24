@@ -21,7 +21,7 @@ I'm a developer who likes to learn a wide arrange of skills. I hope to one day m
 
 🧠 I'm currently learning C++, TypeScript, and Lua!
 
-## My Stats and Discord Presence
+## My Stats and Discord Presence (new, not much logged)
 <table width="100%"> 
   <tr>
   <td width="50%">
