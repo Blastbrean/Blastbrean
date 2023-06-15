@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm an aspiring programmer with expertise in C++, 
 
 ## Programming Experience
 - **C++**: I have been coding in C++ for 4 years, working on various software, from cheat-development to software-protection.
-- **Lua**: Over the course of 4 years, I have gained extensive experience in Lua, building on from my experience of LuaU, utilizing it for scripting and extending software functionality.
+- **Lua**: Over the course of 4 years, I have gained more experience in Lua, building on from past experience (shown below), and utilized it for scripting and extending software functionality.
 - **LuaU**: Scripter and developer on Roblox for the past 6 years. I have been creating games using the Roblox engine, and creating scripts on Roblox.
 - **Rust**: Recently, I have been enjoying Rust for the past 4 months, using it in smaller projects for its readability and usability.
 
