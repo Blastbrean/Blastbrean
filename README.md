@@ -15,9 +15,9 @@ Welcome to my GitHub profile! I'm an aspiring programmer with expertise in C++, 
 
 ## Hobbies and Interests
 
-In addition to programming, I indulge in the world of reverse engineering as a hobby. I like the to inspect inner workings of programs and analyzing their behavior. 
+In addition to programming, I indulge in the world of reverse engineering as a hobby. I like to inspect how progams work, while also document their behavior. 
 
-I'm constantly seeking new challenges and opportunities to enhance my skills.
+I'm constantly seeking new challenges and opportunities to improve my skills.
 
 ## GitHub Projects
 
