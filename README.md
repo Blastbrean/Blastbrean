@@ -8,8 +8,6 @@ Welcome to my GitHub profile! I'm an aspiring programmer with expertise in C++, 
 - **LuaU**: Scripter and developer on Roblox for the past 6 years. I have been creating games using the Roblox engine, and creating scripts on Roblox.
 - **Rust**: Recently, I have been enjoying Rust for the past 4 months, using it in smaller projects for its readability and usability.
 - **Go**: Used it for the past month, and it has quickly became one of my favorite language due to how easy and straightforward it is. 
-
-## Minor Programming Experience
 - **PY**: I have been coding in Python for around 4 years. I have used it working with IDAPython and D.PY bots!
 - **JS/TS**: I have been coding in JS/TS for 3 years. I have used it while working with MERN projects and D.JS bots!
 - **Java**: Worked with it for a month, writing a Minecraft plugin for use in my friend-only server.
