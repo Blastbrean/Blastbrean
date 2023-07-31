@@ -1,6 +1,6 @@
 ## Introduction
 
-Welcome to my GitHub profile! I'm an aspiring programmer with expertise in C++, Lua, Rust, and a bit of reverse engineering. I am constantly coding, trying to perfect my skills.
+Welcome to my GitHub profile! I'm an aspiring programmer with expertise in **C+**+, **Lua**, **Rust**, and a bit of reverse engineering. I am constantly coding, trying to **perfect** my skills.
 
 ## Programming Experience
 - **C++**: I have been coding in C++ for 3 years, working on various software, from cheat-development to software-protection.
