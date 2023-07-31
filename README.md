@@ -3,15 +3,15 @@
 Welcome to my GitHub profile! I'm an aspiring programmer with expertise in C++, Lua, Rust, and a bit of reverse engineering. I am constantly coding, trying to perfect my skills.
 
 ## Programming Experience
-- **C++**: I have been coding in C++ for 4 years, working on various software, from cheat-development to software-protection.
+- **C++**: I have been coding in C++ for 3 years, working on various software, from cheat-development to software-protection.
 - **Lua**: Over the course of 4 years, I have gained more experience in Lua, building on from past experience (shown below), and utilized it for scripting and extending software functionality.
 - **LuaU**: Scripter and developer on Roblox for the past 6 years. I have been creating games using the Roblox engine, and creating scripts on Roblox.
-- **Rust**: Recently, I have been enjoying Rust for the past 4 months, using it in smaller projects for its readability and usability.
+- **Rust**: Recently, I have been enjoying Rust for the past 4 months, using it in smaller projects for its readability and usability. 
 - **Go**: Used it for the past month, and it has quickly became one of my favorite language due to how easy and straightforward it is. 
-- **PY**: I have been coding in Python for around 4 years. I have used it working with IDAPython and D.PY bots!
-- **JS/TS**: I have been coding in JS/TS for 3 years. I have used it while working with MERN projects and D.JS bots!
-- **Java**: Worked with it for a month, writing a Minecraft plugin for use in my friend-only server.
-- **C**: Used C shortly while working with Kernel Drivers.
+- **PY**: I have been coding in Python for around 4 years. It is one of my first languages. It taught me many core principles, although I don't like the syntax.
+- **JS/TS**: I am using it frequently in web-development and discord bots. I have 4 years of experience in this language. It's not one of my favorites.
+- **Java**: Pretty fun. I worked with it for a month, writing a Minecraft plugin for use in my friend-only server. 
+- **C**: I've only worked with C for a short time in order to experiment with kernel drivers, and it wasn't bad at all.
 
 ## Hobbies and Interests
 
