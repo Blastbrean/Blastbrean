@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm an aspiring programmer with expertise in **C+*
 
 - **Lua/LuaU**: Scripter and developer on Roblox since `March 18th, 2016` perfecting my craft. I've worked on games using the Roblox engine and created top of the line cheats. I've used Lua and it's variations using it on different platforms and I'm highly experienced using the language.
 
-- **Rust**: This language is easy and straightforward to get into. I started using this language on `July 5th, 2023` and I've used it in various projects for it being readable, usable, robust, friendly, and clean. 
+- **Rust**: This language is easy and straightforward to get into. I started using this language on `July 5th, 2023` and I've used it in various projects like code obfuscation & analysis, bots, and servers. I praise for it being readable, usable, robust, friendly, and clean. 
 
 - **Go**: A dynamic language that would fit anything you need in the backend. When I started on `September 1st, 2023`, I never knew it would be so easy to create a massive self-hosted WebSocket and HTTP server supporting thousands alongside PocketBase's SDK - an SQL database made in Go.
 
