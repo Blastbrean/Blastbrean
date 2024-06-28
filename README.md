@@ -3,31 +3,31 @@
 Welcome to my GitHub profile! I'm an aspiring programmer with expertise in **C+**+, **Lua/LuaU**, **Rust**, and a bit of **reverse engineering**. I am constantly coding, trying to **perfect** my skills.
 
 ## Programming Experience
-- **C++**: I have been coding in C++ since `Feb 21st, 2020`, working on various software, from cheat development to software protection.
+- **C++**: I have been coding in C++ since `Feb 21st, 2020` working on various types of software. I've worked on cheat development, software protection, and anti-cheating measures.
 
-- **Lua/LuaU**: Scripter and developer on Roblox since `March 18th, 2016`. I have been creating games using the Roblox engine, and creating scripts on Roblox. I've used Lua before the LuaU change and on different platforms. It was mostly to build on from experience and extend software functionaliy. 
+- **Lua/LuaU**: Scripter and developer on Roblox since `March 18th, 2016` perfecting my craft. I've worked on games using the Roblox engine and created top of the line cheats. I've used Lua and it's variations using it on different platforms and I'm highly experienced using the language.
 
-- **Rust**: I have been enjoying Rust as a whole. I started using this language at `July 5th, 2023`, and I am using it in various projects for its readability and usability. 
+- **Rust**: This language is easy and straightforward to get into. I started using this language on `July 5th, 2023` and I've used it in various projects for it being readable, usable, robust, friendly, and clean. 
 
-- **Go**: I've been using it for a huge project, which started in `September 1st, 2023`, and it has quickly became one of my favorite language due to how easy and straightforward it is. 
+- **Go**: A dynamic language that would fit anything you need in the backend. When I started on `September 1st, 2023`, I never knew it would be so easy to create a massive self-hosted WebSocket and HTTP server supporting thousands alongside PocketBase's SDK - an SQL database made in Go.
 
-- **Python**: I have been coding in Python for 4+ years. I started during `January 4th, 2020` when we had to quaratine. It is one of my first languages. It taught me many core principles, although I don't like the syntax. My experience using it was simply to learn from it.
+- **Python**: A language that many started of us started from. During `January 4th, 2020` when we had to quaratine, it was one of the first languages I learned. It taught me many core principles like code formatting, general rules, and style. This also taught me that languages have different use cases - and I use this language for short scripts or tasks.
 
-- **JS/TS**: I am using it frequently in web-development and discord bots. I have been working with this language since `March 9th, 2020`. It's not one of my favorites, but it does it's job well and is usually hassle free.
+- **JS/TS**: This language has the biggest following here. This language can do anything (especially web related) - regardless if that's good or not. Starting with this language o `March 9th, 2020`, it helped me propel my understanding of coding with many Discord bots and web frontend(s) created.
 
-- **Java**: Pretty fun. I worked with it for around a month (from `June 10th, 2020` to `July 1st, 2020`) in order to write Minecraft plugin(s) for use in my friend-only server. I'm confident I could write more advanced plugins with more time spent!
+- **Java**: My work on this language was very fun (from `June 10th, 2020` to `July 1st, 2020`) in order to write Minecraft plugin(s) for use in my server. I can't comment much on it - but they worked to boost productivity on the server and the general experience.
 
-- **C**: I've only worked with C for a week in order to experiment with kernel drivers. It wasn't a bad experience but how I ran and tested my kernel drivers could be improved massively. I should have also done more research myself.
+- **C**: Experience on this language is very lax. Using this language, I've messed around with kernel drivers but I hope to create something serious with it. 
 
 ## Hobbies and Interests
 
 In addition to programming, I love to indulge in the world of reverse engineering as a hobby. I like to inspect how progams work, while also document their behavior. 
 
-I'm constantly seeking new challenges and opportunities to improve my skills.
+I'm constantly seeking new challenges and opportunities to improve my skills - and/or gain knowledge. Feel free to contact me about programming, reverse-engineering, or other things. It'd be nice to see issues and pull-requests made on my projects.
 
 ## GitHub Projects
 
-From cheating-software, reverse engineering experiments, to web-development, I enjoy exploring many topics.
+From cheating software, reverse engineering experiments, to web development, I enjoy exploring many topics.
 
 I'm always free to collaborate, learn, and share knowledge with fellow developers. If you're interested in creating projects, or connecting professionally, feel free to contact me through Discord!
 
