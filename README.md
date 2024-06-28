@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm an aspiring programmer with expertise in **C+*
 
 - **Python**: A language that many started of us started from. During `January 4th, 2020` when we had to quaratine, it was one of the first languages I learned. It taught me many core principles like code formatting, general rules, and style. This also taught me that languages have different use cases - and I use this language for short scripts or tasks.
 
-- **JS/TS**: This language has the biggest following here. This language can do anything (especially web related) - regardless if that's good or not. Starting with this language o `March 9th, 2020`, it helped me propel my understanding of coding with many Discord bots and web frontend(s) created.
+- **Node.JS/JS/TS**: This language has the biggest following here. This language can do anything (especially web related) - regardless if that's good or not. Starting with this language on `March 9th, 2020`, it helped me propel my understanding of coding with many Discord bots and web frontend(s) created.
 
 - **Java**: My work on this language was very fun (from `June 10th, 2020` to `July 1st, 2020`) in order to write Minecraft plugin(s) for use in my server. I can't comment much on it - but they worked to boost productivity on the server and the general experience.
 
