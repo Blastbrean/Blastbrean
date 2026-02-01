@@ -59,17 +59,17 @@ I am a 16 year old dedicated to cybersecurity. However, I maintain an adaptable 
 
 | Volleyball Legends | Lycoris Rewrite Deepwoken |
 | :---: | :---: |
-| <video src="https://raw.githubusercontent.com/Blastbrean/Blastbrean/main/Volleyball%20Legends%20Over%2025.mp4" autoplay loop muted playsinline width="300"></video> | <video src="https://raw.githubusercontent.com/Blastbrean/Blastbrean/main/Auto%20Defense%20Over%2025.mp4" autoplay loop muted playsinline width="300"></video> |
+| https://github.com/user-attachments/assets/36b389d5-891b-4f4e-b303-53db4df8e019 | https://github.com/user-attachments/assets/ee8558bb-6603-4916-a86c-cdb7921b85d3 |
 | *Fully fledged ball prediction system* | *Highly complex auto defense system* |
 
 | RF24 Anticheat System | Lycoris Rewrite Deepwoken |
 | :---: | :---: |
-| ![Banning logs](https://raw.githubusercontent.com/Blastbrean/Blastbrean/refs/heads/main/ban_logs.gif) | <video src="https://raw.githubusercontent.com/Blastbrean/Blastbrean/main/Hallowtide%20Over%2025.mp4" autoplay loop muted playsinline width="300"></video> |
+| ![Banning logs](https://raw.githubusercontent.com/Blastbrean/Blastbrean/refs/heads/main/ban_logs.gif) | https://github.com/user-attachments/assets/0733570f-e63f-4e8b-82d2-ec34bb0264c2 |
 | *Detecting every script and delay banning over 2k+ exploiters in a day.* | *Hallowtide joy farm* |
 
 | Lycoris Framework | Roblox Friday Night Funkin |
 | :---: | :---: |
-| ![Logging system](https://raw.githubusercontent.com/Blastbrean/Blastbrean/refs/heads/main/anim_visualize.gif) | <video src="https://raw.githubusercontent.com/Blastbrean/Blastbrean/main/Auto%20Player%20Over%2025.mp4" autoplay loop muted playsinline width="300"></video> |
+| ![Logging system](https://raw.githubusercontent.com/Blastbrean/Blastbrean/refs/heads/main/anim_visualize.gif) | https://github.com/user-attachments/assets/233e010a-0115-494c-8750-370a9bb21d99 |
 | *Highly sophisticated builder and logging system* | *100% perfect auto playing robot* |
 
 | Counter Strike | Auto Wall Flick Robot |
