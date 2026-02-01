@@ -1,35 +1,61 @@
-## Introduction
+<div align="center">
 
-Welcome to my GitHub profile! I'm an aspiring programmer with expertise in **C+**+, **Lua/LuaU**, **Rust**, and a bit of **reverse engineering**. I am constantly coding, trying to **perfect** my skills.
+  # Hello world! It's Blastbrean.
 
-## Programming Experience
-- **C++**: I have been coding in C++ since `Feb 21st, 2020` working on various types of software. I've worked on cheat development, software protection, and anti-cheating measures.
+  **Software engineer, backend developer, and more...**
 
-- **Lua/LuaU**: Scripter and developer on Roblox since `March 18th, 2016` perfecting my craft. I've worked on games using the Roblox engine and created top of the line cheats. I've used Lua and it's variations using it on different platforms and I'm highly experienced using the language.
+  <a href="https://github.com/Blastbrean">
+    <img src="https://img.shields.io/github/followers/Blastbrean?label=Follow&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/Blastbrean">
+    <img src="https://img.shields.io/github/stars/Blastbrean?style=social" alt="GitHub Stars" />
+  </a>
 
-- **Rust**: This language is easy and straightforward to get into. I started using this language on `July 5th, 2023` and I've used it in various projects like code obfuscation & analysis, bots, and servers. I praise for the creators and the tools around it making Rust readable, usable, robust, friendly, and clean. 
+  <br />
 
-- **Go**: A dynamic language that would fit anything you need in the backend. When I started on `September 1st, 2023`, I never knew it would be so easy to create a massive self-hosted WebSocket and HTTP server supporting thousands alongside PocketBase's SDK - an SQL database made in Go.
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="mailto:A83261812687220746486@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 
-- **Python**: A language that many started of us started from. During `January 4th, 2020` when we had to quaratine, it was one of the first languages I learned. It taught me many core principles like code formatting, general rules, and style. This also taught me that languages have different use cases - and I use this language for short scripts or tasks.
+</div>
 
-- **Node.JS/JS/TS**: This language has the biggest following here. This language can do anything (especially web related) - regardless if that's good or not. Starting with this language on `March 9th, 2020`, it helped me propel my understanding of coding with many Discord bots and web frontend(s) created.
+<br />
 
-- **Java**: My work on this language was very fun (from `June 10th, 2020` to `July 1st, 2020`) in order to write Minecraft plugin(s) for use in my server. I can't comment much on it - but they worked to boost productivity on the server and the general experience.
+### About Me
 
-- **C**: Experience on this language is very lax. Using this language, I've messed around with kernel drivers but I hope to create something serious with it. 
+I am a 16 year old dedicated to cybersecurity. However, I maintain an adaptable technical stack, allowing me to pivot between software protection, tool development, and backend engineering with ease. At the moment, I am focused on learning more reverse-engineering.
 
-## Hobbies and Interests
+- I'm trying to learn more by working on deobfuscation with C# and Loretta. I'm solving complex problems which require me to analyze and transform code.
+- I am experienced in securing communication(s) and the backend. I ensure that data on the client (assuming validated and untampered) can safely pass to the server.
+- Highly proficient in the Roblox/LuaU ecosystem. Specifically, game security, anti-tamper measures, and exploiting in games.
+- While I usually work with security-focused problems, I am a versatile developer capable of software for things like games, automation (discord bots, scraping, etc), and developer tools or utilities.
 
-In addition to programming, I love to indulge in the world of reverse engineering as a hobby. I like to inspect how progams work, while also document their behavior. 
+---
 
-I'm constantly seeking new challenges and opportunities to improve my skills - and/or gain knowledge. Feel free to contact me about programming, reverse-engineering, or other things. It'd be nice to see issues and pull-requests made on my projects.
+### Tech Stack
 
-## GitHub Projects
+#### **Systems & Performance**
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/x86_Assembly-111111?style=for-the-badge&logo=intel&logoColor=white" />
 
-From cheating software, reverse engineering experiments, to web development, I enjoy exploring many topics.
+#### **Software Analysis & Tooling**
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 
-I'm always free to collaborate, learn, and share knowledge with fellow developers. If you're interested in creating projects, or connecting professionally, feel free to contact me through Discord!
+#### **Scripting**
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
-[![Discord](https://img.shields.io/badge/-Discord-white?logo=Discord)](https://discord.com/users/325849904570302469)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/Blastbrean)
+#### **Backend & Database**
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/PocketBase-B8DBE4?style=for-the-badge&logo=pocketbase&logoColor=000" /> <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white">
+
+#### **Frontend & Visualization**
+<img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+
+---
+
+<div align="center">
+  <p>For anything serious like inquiries or collaboration, feel free to reach out via <b><a href="mailto:A83261812687220746486@gmail.com">email</a></b>.<br /> 
+    Note: I do not provide individual support or troubleshooting via Discord.
+  </p>
+</div>
