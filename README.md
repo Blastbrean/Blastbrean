@@ -65,7 +65,7 @@ I am a 16 year old dedicated to cybersecurity. However, I maintain an adaptable 
 | RF24 Anticheat System | Lycoris Rewrite Deepwoken |
 | :---: | :---: |
 | ![Banning logs](https://raw.githubusercontent.com/Blastbrean/Blastbrean/refs/heads/main/ban_logs.gif) | ![Joy farm](https://raw.githubusercontent.com/Blastbrean/Blastbrean/refs/heads/main/joy_farm.webp) |
-| *Detecting every script and delay banning over 2k+ exploiters in a day.* | *Hallowtide joy farm* |
+| *Detecting every script and delay banning over 2k+ exploiters in a day* | *Hallowtide joy farm* |
 
 | Lycoris Framework | Roblox Friday Night Funkin |
 | :---: | :---: |
@@ -75,17 +75,17 @@ I am a 16 year old dedicated to cybersecurity. However, I maintain an adaptable 
 | Counter Strike | Auto Wall Flick Robot |
 | :---: | :---: |
 | ![qo0 base cheat](https://github.com/Blastbrean/Blastbrean/blob/main/counter_strike.gif?raw=true) | ![Wall flick robot](https://raw.githubusercontent.com/Blastbrean/Blastbrean/refs/heads/main/wall_flick.gif) |
-| *Aimbot with multi-point system and auto wall* | *Wall flick robot with edge detection* |
+| *Aimbot with multi-point system and auto wall, red points show what is scanned* | *Wall flick robot with edge detection* |
 
 | Roblox Captcha Bypassing | Visualization Tool |
 | :---: | :---: |
 | ![Parsing tool](https://raw.githubusercontent.com/Blastbrean/Blastbrean/refs/heads/main/parse_mesh.gif) | ![Visualization tool](https://raw.githubusercontent.com/Blastbrean/Blastbrean/refs/heads/main/mesh_visualize.png) |
-| *Full mesh parsing analysis system* | *Tool created to visualize meshes used by captcha.* |
+| *Full mesh parsing analysis system* | *Tool created to visualize meshes used by captcha; pink lines are drawn which show the real 8 points making up one bar, rest are garbage points* |
 
 | IB2 Pre Deobfuscation | IB2 Post Deobfuscation |
 | :---: | :---: |
 | ![Deobfuscation tool](https://raw.githubusercontent.com/Blastbrean/Blastbrean/refs/heads/main/deobfuscate.gif) | ![Post deobf](https://raw.githubusercontent.com/Blastbrean/Blastbrean/refs/heads/main/after_deobf.png) |
-| *Analyzing opcode handlers and control flow.* | *Recovered original code; decompiled with Oracle.* |
+| *Analyzing opcode handlers and control flow on virtualized script* | *Recovered original code; decompiled with Oracle* |
 
 **As always, more projects will be public and more things can be shown here, but this is a nice non-exhaustive list :)**
 
