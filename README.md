@@ -58,23 +58,23 @@ I am a 16 year old dedicated to cybersecurity. However, I maintain an adaptable 
 ### Project Highlights
 | Volleyball Legends | Lycoris Rewrite Deepwoken |
 | :---: | :---: |
-| ![Ball prediction demo](https://cdn.discordapp.com/attachments/1409405061322375188/1463314270354804757/ddnvbur1.gif?ex=69808a5d&is=697f38dd&hm=150a09659dd1410749f0abe4e462d7a3945fe8c7ce2481b275a7e5308f5cd07b&) | ![Auto defense demo](https://cdn.discordapp.com/attachments/1125134922055680040/1449890027940089886/Discord_rexZdm3DWZ.gif?ex=69807b90&is=697f2a10&hm=868ee8757263ccb1e59e50888aac2199bede5fdf22c30ea329377e6e6682ce7b&) |
+| ![Ball prediction demo](https://github.com/Blastbrean/Blastbrean/raw/refs/heads/main/Volleyball%20Legends%20Over%2025.mp4) | ![Auto defense demo](https://github.com/Blastbrean/Blastbrean/raw/refs/heads/main/Auto%20Defense%20Over%2025.mp4) |
 | *Fully fledged ball prediction system* | *Highly complex auto defense system* |
 
 | RF24 Anticheat System | Lycoris Rewrite Deepwoken |
 | :---: | :---: |
-| ![Banning logs](https://raw.githubusercontent.com/Blastbrean/Blastbrean/refs/heads/main/ban_logs.gif) | ![Joy autofarm](https://cdn.discordapp.com/attachments/1447446583334666413/1467627224701210746/Discord_I2hURJzJFw.gif?ex=698111dd&is=697fc05d&hm=822ef7aaa04089dc99b510a3b6d075aef924bac3250047bb3678bddb55f9d78c&) |
+| ![Banning logs](https://raw.githubusercontent.com/Blastbrean/Blastbrean/refs/heads/main/ban_logs.gif) | ![Joy autofarm](https://github.com/Blastbrean/Blastbrean/raw/refs/heads/main/Hallowtide%20Over%2025.mp4) |
 | *Detecting every script and delay banning over 2k+ exploiters in a day with reverse-engineered targeted detections.* | *Hallowtide joy farm* |
 ---
 
 | Lycoris Framework | Roblox Friday Night Funkin |
 | :---: | :---: |
-| ![Logging system](https://raw.githubusercontent.com/Blastbrean/Blastbrean/refs/heads/main/anim_visualize.gif) | ![Auto player](https://cdn.discordapp.com/attachments/1358825420950077642/1369313813261713428/dwmOvcG.gif?ex=6980aedd&is=697f5d5d&hm=baa5eef1e602d54c96e5621992df6e744c5846074e0651d454288c5e1691841b&) |
+| ![Logging system](https://raw.githubusercontent.com/Blastbrean/Blastbrean/refs/heads/main/anim_visualize.gif) | ![Auto player]https://github.com/Blastbrean/Blastbrean/raw/refs/heads/main/Auto%20Player%20Over%2025.mp4) |
 | *Highly sophisticated builder and logging system* | *100% perfect auto playing robot* |
 
 | Counter Strike | Auto Wall Flick Robot |
 | :---: | :---: |
-| ![qo0 base cheat](https://cdn.discordapp.com/attachments/1447446583334666413/1467628660126257212/Discord_I57CjGfWvC.gif?ex=69811333&is=697fc1b3&hm=54cef02a013fa7e1989e6ee378b7a95c241fb860d7f5ea756a045bd9e42b0aca&) | ![Wall flick robot](https://raw.githubusercontent.com/Blastbrean/Blastbrean/refs/heads/main/wall_flick.gif) |
+| ![qo0 base cheat](https://github.com/Blastbrean/Blastbrean/blob/main/counter_strike.gif?raw=true) | ![Wall flick robot](https://raw.githubusercontent.com/Blastbrean/Blastbrean/refs/heads/main/wall_flick.gif) |
 | *Aimbot with multi-point system and auto wall* | *Wall flick robot with edge detection and proper jump timing* |
 
 | Roblox Captcha Bypassing | Visualization Tool |
