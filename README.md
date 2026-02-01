@@ -103,6 +103,6 @@ I am a 16 year old dedicated to cybersecurity. However, I maintain an adaptable 
 
 <div align="center">
   <p>For anything serious like inquiries or collaboration, feel free to reach out via <b><a href="mailto:A83261812687220746486@gmail.com">email</a></b>.<br /> 
-    Note: I do not provide individual support or troubleshooting via Discord.
+    <i>Note: I do not provide individual support or troubleshooting via Discord.</i>
   </p>
 </div>
