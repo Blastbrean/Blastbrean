@@ -76,6 +76,16 @@ I am a 16 year old dedicated to cybersecurity. However, I maintain an adaptable 
 | :---: | :---: |
 | ![qo0 base cheat](https://cdn.discordapp.com/attachments/1447446583334666413/1467628660126257212/Discord_I57CjGfWvC.gif?ex=69811333&is=697fc1b3&hm=54cef02a013fa7e1989e6ee378b7a95c241fb860d7f5ea756a045bd9e42b0aca&) | ![Wall flick robot](https://cdn.discordapp.com/attachments/1447446583334666413/1467628956667609220/Discord_czaBl4QxSp.gif?ex=6981137a&is=697fc1fa&hm=64a983fd0765804d588cd95c9ad98af3580833ff42c390fc27c66a9b04441e1e&) |
 | *Aimbot with multi-point system and auto wall* | *Wall flick robot with edge detection and proper jump timing* |
+
+| Roblox Captcha Bypassing | Visualization Tool |
+| :---: | :---: |
+| ![Parsing tool](https://cdn.discordapp.com/attachments/1447446583334666413/1467629836334928150/Code_PSVmhmIypI.gif?ex=6981144c&is=697fc2cc&hm=7fd59317390b846e6c20c120612f68c950e40d0ef13a393fd38c3668cf4f7ea8&) | ![Visualization tool](https://cdn.discordapp.com/attachments/1447446583334666413/1467630334517448855/image.png?ex=698114c3&is=697fc343&hm=112d57ab9033d79caf5028171cb91ff82c9ebfd8a35489793c9edf1021672e5a&) |
+| *Full mesh parsing analysis system with garbage point detection removal* | *Tool created to visualize meshes used by captcha. Pink shown to visualize the real 8 points creating 1 bar.* |
+
+| IB2 Pre Deobfuscation | IB2 Post Deobfuscation |
+| :---: | :---: |
+| ![Deobfuscation tool](https://cdn.discordapp.com/attachments/1447446583334666413/1467631025764176124/Code_UGZkVfmY7v.gif?ex=69811567&is=697fc3e7&hm=9acc44e82c1a6ccd54cc33fd53389c539d198bc6fbf8540291022e84f909b4e5&) | ![Visualization tool](https://cdn.discordapp.com/attachments/1447446583334666413/1467631815014748384/image.png?ex=69811623&is=697fc4a3&hm=a9a7dd2638c8e8b831f021a2230b7219bcda6a073e18f0823f1033ee476b130e&) |
+| *Deobfuscation system analyzing opcode handlers, removing control flow flattening, and deconstructing super opcode handlers. Original code is virtualized and unrecognizable.* | *The results of my tool. Recovered original code; decompiled with Oracle.* |
 ---
 
 <div align="center">
