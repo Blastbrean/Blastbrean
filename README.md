@@ -59,17 +59,17 @@ I am a 16 year old dedicated to cybersecurity. However, I maintain an adaptable 
 
 | Volleyball Legends | Lycoris Rewrite Deepwoken |
 | :---: | :---: |
-| https://github.com/user-attachments/assets/36b389d5-891b-4f4e-b303-53db4df8e019 | ![Auto defense](https://raw.githubusercontent.com/Blastbrean/Blastbrean/refs/heads/main/auto_defense.webp) |
+| ![Auto player](https://raw.githubusercontent.com/Blastbrean/Blastbrean/refs/heads/main/volleyball_ap.webp)| ![Auto defense](https://raw.githubusercontent.com/Blastbrean/Blastbrean/refs/heads/main/auto_defense.webp) |
 | *Fully fledged ball prediction system* | *Highly complex auto defense system* |
 
 | RF24 Anticheat System | Lycoris Rewrite Deepwoken |
 | :---: | :---: |
-| ![Banning logs](https://raw.githubusercontent.com/Blastbrean/Blastbrean/refs/heads/main/ban_logs.gif) | https://github.com/user-attachments/assets/0733570f-e63f-4e8b-82d2-ec34bb0264c2 |
+| ![Banning logs](https://raw.githubusercontent.com/Blastbrean/Blastbrean/refs/heads/main/ban_logs.gif) | ![Joy farm](https://raw.githubusercontent.com/Blastbrean/Blastbrean/refs/heads/main/joy_farm.webp) |
 | *Detecting every script and delay banning over 2k+ exploiters in a day.* | *Hallowtide joy farm* |
 
 | Lycoris Framework | Roblox Friday Night Funkin |
 | :---: | :---: |
-| ![Logging system](https://raw.githubusercontent.com/Blastbrean/Blastbrean/refs/heads/main/anim_visualize.gif) | https://github.com/user-attachments/assets/233e010a-0115-494c-8750-370a9bb21d99 |
+| ![Logging system](https://raw.githubusercontent.com/Blastbrean/Blastbrean/refs/heads/main/anim_visualize.gif) | ![Auto player](https://raw.githubusercontent.com/Blastbrean/Blastbrean/refs/heads/main/auto_player.webp) |
 | *Highly sophisticated builder and logging system* | *100% perfect auto playing robot* |
 
 | Counter Strike | Auto Wall Flick Robot |
