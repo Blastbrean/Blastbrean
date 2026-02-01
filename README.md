@@ -59,7 +59,7 @@ I am a 16 year old dedicated to cybersecurity. However, I maintain an adaptable 
 
 | Volleyball Legends | Lycoris Rewrite Deepwoken |
 | :---: | :---: |
-| https://github.com/user-attachments/assets/36b389d5-891b-4f4e-b303-53db4df8e019 | https://github.com/user-attachments/assets/ee8558bb-6603-4916-a86c-cdb7921b85d3 |
+| https://github.com/user-attachments/assets/36b389d5-891b-4f4e-b303-53db4df8e019 | ![Auto defense](https://raw.githubusercontent.com/Blastbrean/Blastbrean/refs/heads/main/auto_defense.webp) |
 | *Fully fledged ball prediction system* | *Highly complex auto defense system* |
 
 | RF24 Anticheat System | Lycoris Rewrite Deepwoken |
