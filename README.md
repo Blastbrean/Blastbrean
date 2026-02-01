@@ -87,6 +87,8 @@ I am a 16 year old dedicated to cybersecurity. However, I maintain an adaptable 
 | ![Deobfuscation tool](https://raw.githubusercontent.com/Blastbrean/Blastbrean/refs/heads/main/deobfuscate.gif) | ![Post deobf](https://raw.githubusercontent.com/Blastbrean/Blastbrean/refs/heads/main/after_deobf.png) |
 | *Analyzing opcode handlers and control flow.* | *Recovered original code; decompiled with Oracle.* |
 
+**As always, more projects will be public and more things can be shown here, but this is a nice non-exhaustive list :)**
+
 ---
 
 <div align="center">
