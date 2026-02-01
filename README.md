@@ -30,9 +30,9 @@ I am a 16 year old dedicated to cybersecurity. However, I maintain an adaptable 
 
 - I'm trying to learn more by working on deobfuscation with C# and Loretta. I'm solving complex problems which require me to analyze and transform code.
 - I am experienced in securing communication(s) and the backend. I ensure that data on the client (assuming validated and untampered) can safely pass to the server.
-- Highly proficient in the Roblox/LuaU ecosystem. Specifically, game security, anti-tamper measures, and exploiting in games.
-- While I usually work with security-focused problems, I am a versatile developer capable of software for things like games, automation (discord bots, scraping, etc), and developer tools or utilities.
-- A lot of the work that I do is private. So, if you see experience here that isn't backed up by a project, that is likely why.
+- **Highly proficient in the Roblox/LuaU ecosystem. Specifically, game security, anti-tamper measures, and exploiting in games.**
+- **While I usually work with security-focused problems, I am a versatile developer capable of software for things like games, automation (discord bots, scraping, etc), and developer tools or utilities.**
+- **A lot of the work that I do is private. So, if you see experience here that isn't backed up by a project, that is likely why.**
 
 ---
 
