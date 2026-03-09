@@ -28,16 +28,19 @@
 
 I am a 16 year old dedicated to cybersecurity, and open to work or commissions.
 
-Currently, I'm learning more reverse engineering, a skill I wish to be proficient in. With C# and Loretta, I've been developing a generic Lua obfuscation analyzer. 
-
-It hopes to be able to optimize AST(s) (and therefore the sources) all kinds of scripts and have a easy-to-use IR to devirtualize many instruction sets back to a Lua 5.1 backend. 
-
-
 - **I am extremely proficient in the Roblox/LuaU ecosystem. Specifically, game security, anti-tamper measures, and exploiting in games.**
 
 - **While I usually work with security-focused problems, I am a versatile developer capable of software for things like games, automation (discord bots, scraping, etc), and developer tools or utilities.**
 
 - **A lot of the work that I do is private. So, if you see experience here that isn't backed up by a project, that is likely why.**
+
+--- 
+
+### What Am I Up To? 
+
+Currently, I'm learning **more reverse engineering.** With C# and Loretta, I've been developing a **generic Lua obfuscation analyzer.**
+
+It hopes to be able to **optimize AST(s) (and therefore the sources)** all kinds of scripts and have a **easy-to-use IR to devirtualize many instruction sets** back to **a Lua 5.1 backend.**
 
 ---
 
