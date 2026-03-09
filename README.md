@@ -28,9 +28,7 @@
 
 I am a 16 year old dedicated to cybersecurity, and open to work or commissions.
 
-- Currently, I'm learning more reverse engineering. With C# and Loretta, I've been developing a generic Lua obfuscation analyzer. 
-
-
+Currently, I'm learning more reverse engineering, a skill I wish to be proficient in. With C# and Loretta, I've been developing a generic Lua obfuscation analyzer. 
 
 It hopes to be able to optimize AST(s) (and therefore the sources) all kinds of scripts and have a easy-to-use IR to devirtualize many instruction sets back to a Lua 5.1 backend. 
 
