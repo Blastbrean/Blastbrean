@@ -28,7 +28,7 @@
 
 I am a 16 year old dedicated to cybersecurity, and open to work or commissions.
 
-- Currently, I'm expanding my knowledge in reverse engineering. With C# and Loretta, I've been developing a generic Lua obfusfation analyzer tool. Deobfuscation is a complex problem where you need to iteratively break down things into smaller issues and problem solve like an engineer. I've developed my own internal passes, tooling, and IR to help with this process.
+- Currently, I'm expanding my knowledge in reverse engineering. With C# and Loretta, I've been developing a generic Lua obfusfation analyzer tool. Deobfuscation is a complex problem where you need to iteratively break down things into smaller issues and problem solve like an engineer. I've developed my own AST passes, tooling, and IR to help with this process.
 
 - **Highly proficient in the Roblox/LuaU ecosystem. Specifically, game security, anti-tamper measures, and exploiting in games.**
 
