@@ -24,23 +24,29 @@
 
 <br />
 
-### About Me
+### About me
 
-I am a 16 year old dedicated to cybersecurity, and open to work or commissions.
+I am a 16 year old dedicated to cybersecurity, and open to work or commissions. 
 
-- **I am extremely proficient in the Roblox/LuaU ecosystem. Specifically, game security, anti-tamper measures, and exploiting in games.**
+- I am experienced in Roblox and Lua. I focus on these topics: anticheats, whitelisting, game scripts, and deobfuscation.
 
-- **While I usually work with security-focused problems, I am a versatile developer capable of software for things like games, automation (discord bots, scraping, etc), and developer tools or utilities.**
+- Very adaptable. Capable of: creating backends, game code, developer tools, automation & bots, scrapers, and more.
 
-- **A lot of the work that I do is private. So, if you see experience here that isn't backed up by a project, that is likely why.**
+- Honest and realistic. If you hire or commission me, everything is planned and has no room for question.
+
+Most of my work is private. If you see experience here that isn't backed up by a project, that is why.
 
 --- 
 
-### What Am I Up To? 
+### What am I learning
 
-Currently, I'm learning **more reverse engineering.** With C# and Loretta, I've been developing a **generic Lua obfuscation analyzer.**
+Learning more reverse engineering.
 
-It hopes to be able to **optimize AST(s) (and therefore the sources)** all kinds of scripts and have a **easy-to-use IR to devirtualize many instruction sets** back to **a Lua 5.1 backend.**
+With C#, I've been developing a generic deobfuscation toolkit and targeting Lua obfuscated code with it using Loretta.
+
+I hope to create a skeleton for future deobfuscation work on other languages, an easy to use IR and AST optimization system, and a adaptable frontend -> IR -> backend system.
+
+After my work here, I am also interested in working on a hypervisor and moving on to Windows Internals!
 
 ---
 
