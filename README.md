@@ -44,9 +44,13 @@ Learning more reverse engineering.
 
 With C#, I've been developing a generic deobfuscation toolkit and targeting Lua obfuscated code with it using Loretta.
 
-I hope to create a skeleton for future deobfuscation work on other languages, an easy to use IR and AST optimization system, and a adaptable frontend -> IR -> backend system.
+I hope to create a skeleton for future deobfuscation work on other languages. This skeleton would have...
 
-After my work here, I am also interested in working on a hypervisor and moving on to Windows Internals!
+- an easy AST optimization system to remove source-level obfuscation, pattern matching, and pass system
+
+- an easy frontend-IR-backend system to easily lift bytecode to whatever you want and optimize out tricks.
+
+After my work here, I am also interested in working on a AMD-SVM hypervisor, moving on to Windows Internals, and targeting real-world anticheats!
 
 ---
 
