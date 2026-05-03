@@ -28,7 +28,7 @@
 
 I am a 16 year old who wants to do cybersecurity, and open to work or commissions. 
 
-- I am experienced in Roblox and Lua. I focus on these topics: anticheats, whitelisting, game scripts, and deobfuscation.
+- Experienced in Roblox and Lua. I focus on these topics: anticheats, whitelisting, game scripts, and deobfuscation.
 
 - Very adaptable. Capable of: creating backends, game code, developer tools, automation & bots, scrapers, and more.
 
@@ -38,7 +38,7 @@ Most of my work is private. If you see experience here that isn't backed up by a
 
 --- 
 
-### What am I learning
+### What am I learning?
 
 Learning more reverse engineering. 
 
@@ -46,7 +46,7 @@ This means I want to be able to understand how programs work without their origi
 
 With C#, I've been developing a toolkit to target these types of Lua programs using Loretta.
 
-Through this, I also hope to create a skeleton for future deobfuscation work on other languages. This skeleton would have...
+Through this, I also hope to create a skeleton for future work like this on other languages. This skeleton would have:
 
 - an easy AST optimization system to remove source-level obfuscation, pattern matching, and pass system
 
