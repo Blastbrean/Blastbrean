@@ -2,7 +2,7 @@
 
   # Hello world! It's Blastbrean.
   
-  **Software engineer, backend developer, and more...**
+  **A software engineer who likes to have fun coding!**
 
   <a href="https://github.com/Blastbrean">
     <img src="https://img.shields.io/github/followers/Blastbrean?label=Follow&style=social" alt="GitHub Followers" />
@@ -26,7 +26,7 @@
 
 ### About me
 
-I am a 16 year old dedicated to cybersecurity, and open to work or commissions. 
+I am a 16 year old who wants to do cybersecurity, and open to work or commissions. 
 
 - I am experienced in Roblox and Lua. I focus on these topics: anticheats, whitelisting, game scripts, and deobfuscation.
 
@@ -40,17 +40,19 @@ Most of my work is private. If you see experience here that isn't backed up by a
 
 ### What am I learning
 
-Learning more reverse engineering.
+Learning more reverse engineering. 
 
-With C#, I've been developing a generic deobfuscation toolkit and targeting Lua obfuscated code with it using Loretta.
+This means I want to be able to understand how programs work without their original sources or when hidden, encrypted, or protected by something.
 
-I hope to create a skeleton for future deobfuscation work on other languages. This skeleton would have...
+With C#, I've been developing a toolkit to target these types of Lua programs using Loretta.
+
+Through this, I also hope to create a skeleton for future deobfuscation work on other languages. This skeleton would have...
 
 - an easy AST optimization system to remove source-level obfuscation, pattern matching, and pass system
 
 - an easy frontend-IR-backend system to easily lift bytecode to whatever you want and optimize out tricks.
 
-After my work here, I am also interested in working on a AMD-SVM hypervisor, moving on to Windows Internals, and targeting real-world anticheats!
+After my work here, I am also interested in working on a AMD-SVM hypervisor, moving on to Windows Internals, and targeting real-world anticheats.
 
 ---
 
