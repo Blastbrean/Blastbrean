@@ -1,29 +1,3 @@
-<div align="center">
-
-  # Hello world! It's Blastbrean.
-  
-  **A software engineer who likes to have fun coding!**
-
-  <a href="https://github.com/Blastbrean">
-    <img src="https://img.shields.io/github/followers/Blastbrean?label=Follow&style=social" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/Blastbrean">
-    <img src="https://img.shields.io/github/stars/Blastbrean?style=social" alt="GitHub Stars" />
-  </a>
-
-  <br />
-
-  <a href="https://discord.com">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="mailto:A83261812687220746486@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-
-</div>
-
-<br />
-
 ### About me
 
 I am a 16 year old who wants to do cybersecurity, and open to work or commissions. 
