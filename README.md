@@ -44,7 +44,7 @@ Learning more reverse engineering.
 
 This means I want to be able to understand how programs work without their original sources or when hidden, encrypted, or protected by something.
 
-With C#, I've been developing a toolkit to target these types of Lua programs using Loretta.
+With C#, I've been developing a toolkit to do this on the Lua language using Loretta.
 
 Through this, I also hope to create a skeleton for future work like this on other languages. This skeleton would have:
 
