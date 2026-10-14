@@ -1,3 +1,3 @@
-**This account is now abandoned and migrated.**
+**Hi, this account is only used for private projects; collaborative work.**
 
-[Click here to go to the new profile.](https://git.blastbrean.com/blastbrean)
+[Click here to go to the new profile for personal projects.](https://git.blastbrean.com/blastbrean)
